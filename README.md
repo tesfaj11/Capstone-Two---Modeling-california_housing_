@@ -1,4 +1,3 @@
-# Capstone-Two-Modeling-california_housing_
 # Capstone 2 - California Housing Modeling
 
 ## Overview
